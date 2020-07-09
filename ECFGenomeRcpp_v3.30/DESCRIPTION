@@ -1,0 +1,18 @@
+Package: ECFGenomeRcpp
+Type: Package
+Title: Suite of sweet genome tools for doing ECF things
+Version: 3.30
+Date: 2018-08-22
+Author: Horia Todor
+Maintainer: Your Name <horia.todor@gmail.com>
+Description: Does all of the thug things involved in scanning a pwm across tens of thousands of genomes. 
+License: GPL (>= 2)
+Imports: 
+	Rcpp (>= 0.12.14),
+	RcppArmadillo,
+	readr,
+	seqinr,
+	parallel,
+	phangorn
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.0.1.9000
