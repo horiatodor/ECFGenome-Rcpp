@@ -3,7 +3,7 @@
 Author: Horia Todor [horia.todor@gmail.com]
 
 This code performs phylogenetic footprinting on the basis of a motif consisting of 1 or 2 PWMs separated by a variable spacer. 
-It requieres genome and annotation files from proGenomes (Mende et al., 2017). Example files are provided for 10 pseudomonas genomes.
+It requieres genome and annotation files from proGenomes (Mende et al., 2017). Example files are provided for 3 genomes.
 
 ## How to use this code
 
